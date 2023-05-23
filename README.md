@@ -1,4 +1,4 @@
-# **MonsterWrangler**
+# **Monster Wrangler**
 A simple game where you play as a knight trying to capture monsters. The player must navigate around the game board to capture the correct monster while avoiding the others. The player has five lives and two warps, and the game has an infinite number of rounds.
 
 ## **Getting Started**
